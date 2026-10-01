@@ -1,3 +1,5 @@
+// TO DO: TRZEBA ZROBIĆ KLASY
+
 public class Main {
     static void main() {
         Adder adder = new Adder();
