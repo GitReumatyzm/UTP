@@ -1,5 +1,7 @@
 // TO DO: TRZEBA ZROBIĆ KLASY
 
+// Ok ja dodam to, a s###### doda to
+
 public class Main {
     static void main() {
         Adder adder = new Adder();
